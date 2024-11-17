@@ -29,4 +29,4 @@ Este é um projeto em Java que simula um sistema de gerenciamento de livros e au
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/challenge-literatura-java.git
+   git clone https://github.com/Elson-Santos/LiterAlura
